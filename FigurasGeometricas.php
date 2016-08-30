@@ -16,6 +16,6 @@ abstract class FigurasGeometricas {
    
     abstract public function Dibujar();
     abstract protected function CalcularDatos();
-
+    public function ToString(){}
 }
 ?>

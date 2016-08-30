@@ -15,8 +15,13 @@
 			return ($this->base * $this->altura)/2;
 		}
 
-		function Dibujar(){
-			
+		function ToString(){
+			return $this->altura;
 		}
+
+		function Dibujar(){
+
+		}
+
 	}
 ?>
