@@ -1,4 +1,5 @@
 <?php
-	protected $_ladoDos;
-
+  class Rectangulo {
+	public $ladoDos="2";
+}
 ?>
