@@ -1,8 +1,6 @@
-<html>
-<head>
-	<title></title>
-</head>
-<body>
+<?php
+require_once('C:\xampp\htdocs\ClaseDos\Rectangulo.php'); 
 
-</body>
-</html>
+echo "hola";
+echo $_ladoDos;
+?>
