@@ -13,5 +13,10 @@ require_once('C:\xampp\htdocs\ClaseDos\FigurasGeometricas.php');
 	function CalcularDatos(){    	
      	return $this->ladoUno * $this->ladoDos;    	
 	}
+
+	function Dibujar(){
+		
+		 		
+	}
 }
 ?>

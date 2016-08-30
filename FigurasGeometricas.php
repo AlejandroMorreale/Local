@@ -5,9 +5,7 @@ abstract class FigurasGeometricas {
     protected $_perimetro;
     protected $_superficie;
 
-    function FigurasGeometricas() {
-
-    }
+    function FigurasGeometricas() { }
 
     public function GetColor() {
         return $this->_color;
